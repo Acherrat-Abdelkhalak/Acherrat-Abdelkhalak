@@ -1,7 +1,8 @@
+
 # 👋 Hello, I'm Abdelkhalak Acherrat
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1aVSwqGXJq4_WuEsyahrff8AckXhkmcF8/view?usp=drive_link" alt="Abdelkhalak Acherrat" width="220" style="border-radius: 50%; border: 4px solid #0369a1;" />
+  <img src="[https://drive.google.com/file/d/1aVSwqGXJq4_WuEsyahrff8AckXhkmcF8/view?usp=drive_link](https://github.com/user-attachments/assets/098915dd-6db7-48a0-add9-58ed03b6dd37)" alt="Abdelkhalak Acherrat" width="220" style="border-radius: 50%; border: 4px solid #0369a1;" />
   <h3>👨‍🏫 High School Mathematics Teacher | 📊 Data Science & AI Enthusiast | 💻 Developer</h3>
   <p><em>The Empowered Digital Teacher (المدرس الرقمي المتمكن)</em></p>
 </div>
